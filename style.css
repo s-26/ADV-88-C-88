@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaddieberg%2F2019%2F07%2F10%2Fmarvel-money-how-six-avengers-made-340-million-last-year%2F&psig=AOvVaw0G4AMpOTuaU5B3DpqGSXSg&ust=1622887930983000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiEsure_fACFQAAAAAdAAAAABAD");
+    background-position: center;
+    background-size: cover;
+}
+#my_canvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
